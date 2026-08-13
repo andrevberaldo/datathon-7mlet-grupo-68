@@ -4,6 +4,8 @@ Plataforma de investimentos (HP Invest) com backend FastAPI, serviço de modelos
 (multi-armed bandits) separado, frontend Angular e um assistente administrativo
 baseado em agentes (LangChain + MCP + CopilotKit).
 
+- **[Requisitos do Datathon](requirements.md)** — cada etapa do edital mapeada
+  para o que existe no código, com o que ainda falta.
 - **[Visão geral do sistema](architecture/system-overview.md)** — como as três
   frentes (vitrine, motor de recomendação, admin assistant) se encaixam.
 - **[Arquitetura do Admin Assistant](architecture/admin-assistant.md)** — fluxo
