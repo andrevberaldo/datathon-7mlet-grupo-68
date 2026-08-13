@@ -24,6 +24,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Requisitos do Datathon: requirements.md
   - Arquitetura:
       - Admin Assistant: architecture/admin-assistant.md
       - Visão geral do sistema: architecture/system-overview.md
